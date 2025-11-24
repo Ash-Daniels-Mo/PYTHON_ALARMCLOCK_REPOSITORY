@@ -1,5 +1,5 @@
 
-#GHAN STYLE ALARM PYTHON CODE
+#GHAN STYLE ALARM PYTHON CODE 
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
